@@ -649,18 +649,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-##  Star History
-
-If you find this project useful, please consider giving it a ⭐!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=arunajithesh123/Diabetic-Retinopathy&type=Date)](https://star-history.com/#arunajithesh123/Diabetic-Retinopathy&Date)
-
----
-
-<div align="center">
-
-**[⬆ back to top](#diabetic-retinopathy-lesion-segmentation-through-attention-mechanisms)**
-
-
-
-</div>
