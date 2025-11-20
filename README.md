@@ -546,11 +546,11 @@ Diabetic-Retinopathy/
 
 ### Clinical Impact
 
-✅ **Earlier Detection:** Identify at-risk patients years earlier  
-✅ **Preventive Care:** Enable timely interventions  
-✅ **Scalable Screening:** From 15-20 to hundreds of exams/day  
-✅ **Telemedicine:** Deploy in underserved areas  
-✅ **Evidence-Based:** Pixel-level lesion maps for ophthalmologists
+ **Earlier Detection:** Identify at-risk patients years earlier  
+ **Preventive Care:** Enable timely interventions  
+ **Scalable Screening:** From 15-20 to hundreds of exams/day  
+ **Telemedicine:** Deploy in underserved areas  
+ **Evidence-Based:** Pixel-level lesion maps for ophthalmologists
 
 ---
 
