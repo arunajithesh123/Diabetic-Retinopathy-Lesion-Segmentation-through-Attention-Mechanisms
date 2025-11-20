@@ -1,0 +1,2 @@
+# Diabetic-Retinopathy-Lesion-Segmentation-through-Attention-Mechanisms
+Attention-enhanced DeepLab architecture achieving 272% improvement in microaneurysm detection and 10.5% mAP increase for automated DR screening. Integrates CBAM into DeepLab-V3+ for precise pixel-level lesion segmentation across four lesion types. Enables early detection and clinically actionable insights for scalable diabetic eye disease screening
